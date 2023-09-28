@@ -3,7 +3,8 @@
 <p>◾&nbsp Software Engineering Student</p>
 <hr>
 <h3>🎓​ Education:</h3>
-<p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p><br><br><br><br>
+<p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p>
+<p>◾&nbsp Institut Spécialisé de Technologie Appliquée NTIC (Maintenance informatique et réseaux)</p><br><br><br><br>
 <h1 align="center">Hello 👋, I'm AYOUB BAKHAT</h1>
 <h3 align="center">Student in the ALX SE program</h3>
 <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
