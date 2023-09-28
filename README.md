@@ -1,10 +1,12 @@
-<img align="right" alt="coding" width="600" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"><br>
+<img align="right" alt="coding" width="1000" height="300" src="https://media.tenor.com/AkZzPm0Ie40AAAAC/the-matrix-matrix.gif"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr><hr>
+<img align="right" alt="coding" width="600" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 <h3>💻​ Experience:</h3>
 <p>◾&nbsp Software Engineering Student</p>
 <hr>
 <h3>🎓​ Education:</h3>
 <p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p>
-<p>◾&nbsp Institut Spécialisé de Technologie Appliquée NTIC (Maintenance informatique et réseaux)</p><br><br><br><br>
+<p>◾&nbsp Institut Spécialisé de Technologie Appliquée NTIC (Maintenance informatique et réseaux)</p><br><br>
 <h1 align="center">Hello 👋, I'm AYOUB BAKHAT</h1>
 <h3 align="center">Student in the ALX SE program</h3>
 <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
