@@ -1,6 +1,7 @@
 <img align="right" alt="coding" width="600" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"><br>
 <h3>💻​ Experience:</h3>
 <p>◾&nbsp Software Engineering Student</p>
+<hr>
 <h3>🎓​ Education:</h3>
 <p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p><br><br><br><br>
 <h1 align="center">Hello 👋, I'm AYOUB BAKHAT</h1>
