@@ -1,4 +1,8 @@
-<img align="center" alt="coding" width="1000" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
+<img align="right" alt="coding" width="600" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif"><br>
+<h3>💻​ Experience:</h3>
+<p>◾&nbsp Software Engineering Student</p>
+<h3>🎓​ Education:</h3>
+<p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p><br><br><br><br>
 <h1 align="center">Hello 👋, I'm AYOUB BAKHAT</h1>
 <h3 align="center">Student in the ALX SE program</h3>
 <p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
@@ -6,10 +10,7 @@
  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp I am excited to explore new opportunities and expand my network.
 </p>
-<h3>💻​ Experience:</h3>
-<p>◾&nbsp Software Engineering Student</p>
-<h3>🎓​ Education:</h3>
-<p>◾​​&nbsp Brevet de technicien supérieur (BTS)_Développement des systèmes d'information(DSI)</p>
+
   <emrkljezmkrelkrjrt rtre>
   </emrkljezmkrelkrjrt></p>
 <h3 align="left">Connect with me:</h3>
