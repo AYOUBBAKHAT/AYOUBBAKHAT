@@ -30,5 +30,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYOUBBAKHAT&show_icons=true&theme=blanche)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AYOUBBAKHAT&theme=blanche)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBAKHAT&layout=compact&theme=blanche)
-<h3 align="left">Support:</h3>
+<h3 align="left">Support :</h3>
 <p><a href="https://ko-fi.com/AYOUB_BAKHAT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AYOUB_BAKHAT" /></a></p>
