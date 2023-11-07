@@ -32,9 +32,7 @@
 <center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYOUBBAKHAT&show_icons=true&theme=blanche)
-<a href="http://www.github.com/AYOUBBAKHAT">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYOUBBAKHAT&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-</a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AYOUBBAKHAT&theme=blanche)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUBBAKHAT&layout=compact&theme=blanche)
 <h3 align="left">Support :</h3>
 <p><a href="https://ko-fi.com/AYOUB_BAKHAT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AYOUB_BAKHAT" /></a></p>
