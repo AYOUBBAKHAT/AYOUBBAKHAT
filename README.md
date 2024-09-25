@@ -5,7 +5,10 @@
 
 <h3 align="center">Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
-<p align="left"> <a href="https://x.com/Ayou_B_akhat" target="blank"><img src="https://img.shields.io/twitter/follow/AYOUBBAKHAT?logo=twitter&style=for-the-badge" alt="chsohy" /></a> <a href="https://www.github.com/AYOUBBAKHAT" target="_blank" rel="noreferrer"><img
+<p align="left"> <a href="https://www.twitter.com/Ayou_B_akhat" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AyomideA_S?logo=twitter&style=plastic&color=0891b2&labelColor=1c1917"
+/></a>
+  <a href="https://www.github.com/AYOUBBAKHAT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plastic&color=0891b2&labelColor=1c1917" /></a></p>
 - 🌱 I’m currently learning Web Development.
 
