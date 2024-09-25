@@ -1,10 +1,15 @@
 <img align="right" alt="coding" width="1000" height="300" src="https://media.tenor.com/AkZzPm0Ie40AAAAC/the-matrix-matrix.gif"><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr><hr>
-<img align="right" alt="coding" width="600" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
+
 <h1 align="center">Hi 👋, I'm AYOUB BAKHAT</h1>
+
 <h3 align="center">Software Engineering Student</h3>
+<img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
+<p align="left"> <a href="https://twitter.com/chsohy" target="blank"><img src="https://img.shields.io/twitter/follow/chsohy?logo=twitter&style=for-the-badge" alt="chsohy" /></a> </p>
 - 🌱 I’m currently learning Web Development.
-- 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT?tab=repositories](https://github.com/AYOUBBAKHAT?tab=repositories)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT](https://github.com/AYOUBBAKHAT?tab=repositories)
+  
 - ⚡ Fun fact: I love games (especially chess and football).
 <h3 align="left">Connect with me:</h3>
 <p>I share my thoughts and journey in learning :
