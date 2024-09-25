@@ -5,7 +5,7 @@
 
 <h3 align="center">Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
-<p align="left"> <a href="https://twitter.com/chsohy" target="blank"><img src="https://img.shields.io/twitter/follow/chsohy?logo=twitter&style=for-the-badge" alt="chsohy" /></a> </p>
+<p align="left"> <a href="https://x.com/Ayou_B_akhat" target="blank"><img src="https://img.shields.io/twitter/follow/AYOUBBAKHAT?logo=twitter&style=for-the-badge" alt="chsohy" /></a> </p>
 - 🌱 I’m currently learning Web Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT](https://github.com/AYOUBBAKHAT?tab=repositories)
