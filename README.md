@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm AYOUB BAKHAT</h1>
 <h3 align="center">Software Engineering Student</h3>
 - 🌱 I’m currently learning Web Development.
-- 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT](https://github.com/AYOUBBAKHAT?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT?tab=repositories](https://github.com/AYOUBBAKHAT?tab=repositories)
 - ⚡ Fun fact: I love games (especially chess and football).
 <h3 align="left">Connect with me:</h3>
 <p>I share my thoughts and journey in learning :
