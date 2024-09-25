@@ -9,7 +9,7 @@
 src="https://img.shields.io/twitter/follow/Ayou_B_akhat?logo=twitter&style=plastic&color=0891b2&labelColor=1c1917"
 /></a><br>
   <a href="https://www.github.com/AYOUBBAKHAT" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plastic&color=0891b2&labelColor=1c1917" /></a></p>
+src="https://img.shields.io/github/followers/AYOUBBAKHAT?logo=github&style=plastic&color=0891b2&labelColor=1c1917" /></a></p>
 
 - 🌱 I’m currently learning Web Development.
 
