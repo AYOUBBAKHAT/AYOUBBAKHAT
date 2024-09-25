@@ -53,4 +53,4 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/AyomideAS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/BAKHAT"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
