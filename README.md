@@ -11,6 +11,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AYOUBBAKHAT](https://github.com/AYOUBBAKHAT?tab=repositories)
   
 - ⚡ Fun fact: I love games (especially chess and football).
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p>I share my thoughts and journey in learning :
 <p align="left">
