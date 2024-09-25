@@ -37,17 +37,17 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
 <div align="left">
     <a href="http://www.github.com/AYOUBBAKHAT">
         <img 
-             src="https://github-readme-stats-ayomidea-s.vercel.app/api?username=AyomideA-S&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" 
+             src="https://github-readme-stats-ayomidea-s.vercel.app/api?username=AYOUBBAKHAT&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" 
              alt="AYOUBBAKHAT GitHub stats" 
         />
     </a>
     <a href="http://www.github.com/AYOUBBAKHAT">
         <img 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=AyomideA-S&theme=vision-friendly-dark" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=AYOUBBAKHAT&theme=vision-friendly-dark" 
         />
     </a>
 </div>
-<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats-ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
+<a href="https://github.com/AYOUBBAKHAT" align="left"><img src="https://github-readme-stats-ayomidea-s.vercel.app/api/top-langs/?username=AYOUBBAKHAT&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
 
 </div><br />
 
