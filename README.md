@@ -47,5 +47,10 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
         />
     </a>
 </div>
-<h3 align="left">Support :</h3>
-<p><a href="https://ko-fi.com/AYOUB_BAKHAT"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AYOUB_BAKHAT" /></a></p>
+<a href="https://github.com/AyomideA-S" align="left"><img src="https://github-readme-stats-ayomidea-s.vercel.app/api/top-langs/?username=AyomideA-S&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></a>
+
+</div><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/AyomideAS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
