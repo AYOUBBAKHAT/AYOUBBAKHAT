@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/AyomideA-S?logo=github&style=plasti
     <a href="http://www.github.com/AYOUBBAKHAT">
         <img 
              src="https://github-readme-stats-ayomidea-s.vercel.app/api?username=AyomideA-S&show_icons=true&hide=&count_private=true&theme=vision-friendly-dark" 
-             alt="AyomideA-S's GitHub stats" 
+             alt="AYOUBBAKHAT GitHub stats" 
         />
     </a>
     <a href="http://www.github.com/AYOUBBAKHAT">
